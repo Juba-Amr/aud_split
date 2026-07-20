@@ -1,0 +1,4 @@
+runpod
+faster-whisper
+ctranslate2
+ffmpeg-python
